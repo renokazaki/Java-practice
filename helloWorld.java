@@ -4,7 +4,7 @@ class Sample1_03_1 {
 		System.out.println("Eclipseからgithub連携テスト");
 
 		
-		int x = 1;
+		int x = 100000;
 		System.out.println(x);
 
 	}
