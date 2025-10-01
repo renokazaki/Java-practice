@@ -3,5 +3,9 @@ class Sample1_03_1 {
 		System.out.println("Hello World!");
 		System.out.println("Eclipseからgithub連携テスト");
 
+		
+		int x = 1;
+		System.out.println(x);
+
 	}
 }
